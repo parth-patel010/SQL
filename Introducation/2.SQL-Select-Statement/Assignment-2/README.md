@@ -4,3 +4,5 @@
 <p>It's very common to write queries that only return specific portions of data from a table. Our HR team has requested a report asking for all the names and balances of all of our users.
 
 Write a query that retrieves all of the names and balances from the users table.</p>
+
+<pre><b> NOTE: DONT FOCUS ON HOW TABLE CREATED WE WILL KNOWN IT LATER JUST SEE HOW TO SELECT. </b></pre>
