@@ -47,3 +47,14 @@ For example:
 
 - [ ] the same  
 - [x] different
+
+**____ compatible databases tend to be more similar in their functionality than ____ databases**
+
+- [x] SQL, NoSQL
+- [] NoSQL, SQL
+
+**Which type of database always uses table structures?**
+
+- [x] SQL
+- [] NoSQL
+- [] Both
